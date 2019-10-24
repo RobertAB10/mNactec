@@ -19,3 +19,9 @@ D:\DAM\ABP\AplicacionEscritorio\AplicacionEscritorio\obj\Debug\AplicacionEscrito
 C:\Users\rober\Source\Repos\mNactec\AplicacionEscritorio\AplicacionEscritorio\bin\Debug\AplicacionEscritorio.exe.config
 C:\Users\rober\Source\Repos\mNactec\AplicacionEscritorio\AplicacionEscritorio\obj\Debug\AplicacionEscritorio.exe
 C:\Users\rober\Source\Repos\mNactec\AplicacionEscritorio\AplicacionEscritorio\obj\Debug\AplicacionEscritorio.pdb
+C:\Users\rober\Source\Repos\mNactec\AplicacionEscritorio\AplicacionEscritorio\bin\Debug\AplicacionEscritorio.exe
+C:\Users\rober\Source\Repos\mNactec\AplicacionEscritorio\AplicacionEscritorio\bin\Debug\AplicacionEscritorio.pdb
+C:\Users\rober\Source\Repos\mNactec\AplicacionEscritorio\AplicacionEscritorio\obj\Debug\AplicacionEscritorio.csprojResolveAssemblyReference.cache
+C:\Users\rober\Source\Repos\mNactec\AplicacionEscritorio\AplicacionEscritorio\obj\Debug\AplicacionEscritorio.NuevaPregunta.resources
+C:\Users\rober\Source\Repos\mNactec\AplicacionEscritorio\AplicacionEscritorio\obj\Debug\AplicacionEscritorio.Properties.Resources.resources
+C:\Users\rober\Source\Repos\mNactec\AplicacionEscritorio\AplicacionEscritorio\obj\Debug\AplicacionEscritorio.csproj.GenerateResource.Cache
