@@ -47,8 +47,8 @@
             this.labelNivel = new System.Windows.Forms.Label();
             this.groupBoxRespuestas = new System.Windows.Forms.GroupBox();
             this.radioButtonRespuestaCorrecta = new System.Windows.Forms.RadioButton();
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
+            this.buttonConfirmar = new System.Windows.Forms.Button();
+            this.buttonCancelar = new System.Windows.Forms.Button();
             this.groupBoxRespuestas.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -237,31 +237,31 @@
             this.radioButtonRespuestaCorrecta.UseVisualStyleBackColor = true;
             this.radioButtonRespuestaCorrecta.CheckedChanged += new System.EventHandler(this.radioButtonRespuestaCorrecta_CheckedChanged);
             // 
-            // button1
+            // buttonConfirmar
             // 
-            this.button1.Location = new System.Drawing.Point(468, 375);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(97, 33);
-            this.button1.TabIndex = 20;
-            this.button1.Text = "button1";
-            this.button1.UseVisualStyleBackColor = true;
+            this.buttonConfirmar.Location = new System.Drawing.Point(468, 375);
+            this.buttonConfirmar.Name = "buttonConfirmar";
+            this.buttonConfirmar.Size = new System.Drawing.Size(97, 33);
+            this.buttonConfirmar.TabIndex = 20;
+            this.buttonConfirmar.Text = "CONFIRMAR";
+            this.buttonConfirmar.UseVisualStyleBackColor = true;
             // 
-            // button2
+            // buttonCancelar
             // 
-            this.button2.Location = new System.Drawing.Point(595, 375);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(97, 33);
-            this.button2.TabIndex = 21;
-            this.button2.Text = "button2";
-            this.button2.UseVisualStyleBackColor = true;
+            this.buttonCancelar.Location = new System.Drawing.Point(595, 375);
+            this.buttonCancelar.Name = "buttonCancelar";
+            this.buttonCancelar.Size = new System.Drawing.Size(97, 33);
+            this.buttonCancelar.TabIndex = 21;
+            this.buttonCancelar.Text = "CANCELAR";
+            this.buttonCancelar.UseVisualStyleBackColor = true;
             // 
             // NuevaPregunta
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(704, 431);
-            this.Controls.Add(this.button2);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.buttonCancelar);
+            this.Controls.Add(this.buttonConfirmar);
             this.Controls.Add(this.groupBoxRespuestas);
             this.Controls.Add(this.labelNivel);
             this.Controls.Add(this.comboBoxNivel);
@@ -299,8 +299,8 @@
         private System.Windows.Forms.Label labelNivel;
         private System.Windows.Forms.GroupBox groupBoxRespuestas;
         private System.Windows.Forms.RadioButton radioButtonRespuestaCorrecta;
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button buttonConfirmar;
+        private System.Windows.Forms.Button buttonCancelar;
     }
 }
 
