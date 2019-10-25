@@ -292,7 +292,7 @@
             this.Controls.Add(this.labelPregunta);
             this.Controls.Add(this.labelNuevaPregunta);
             this.Name = "NuevaPregunta";
-            this.Text = "Form1";
+            this.Text = "Nueva Pregunta";
             this.Load += new System.EventHandler(this.NuevaPregunta_Load);
             this.groupBoxRespuestas.ResumeLayout(false);
             this.groupBoxRespuestas.PerformLayout();
