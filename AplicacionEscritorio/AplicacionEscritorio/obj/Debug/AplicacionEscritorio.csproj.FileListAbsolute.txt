@@ -25,3 +25,13 @@ C:\Users\rober\Source\Repos\mNactec\AplicacionEscritorio\AplicacionEscritorio\ob
 C:\Users\rober\Source\Repos\mNactec\AplicacionEscritorio\AplicacionEscritorio\obj\Debug\AplicacionEscritorio.NuevaPregunta.resources
 C:\Users\rober\Source\Repos\mNactec\AplicacionEscritorio\AplicacionEscritorio\obj\Debug\AplicacionEscritorio.Properties.Resources.resources
 C:\Users\rober\Source\Repos\mNactec\AplicacionEscritorio\AplicacionEscritorio\obj\Debug\AplicacionEscritorio.csproj.GenerateResource.Cache
+C:\Users\cep.CEPNET0\Source\Repos\mNactec5\AplicacionEscritorio\AplicacionEscritorio\bin\Debug\AplicacionEscritorio.exe.config
+C:\Users\cep.CEPNET0\Source\Repos\mNactec5\AplicacionEscritorio\AplicacionEscritorio\bin\Debug\AplicacionEscritorio.exe
+C:\Users\cep.CEPNET0\Source\Repos\mNactec5\AplicacionEscritorio\AplicacionEscritorio\bin\Debug\AplicacionEscritorio.pdb
+C:\Users\cep.CEPNET0\Source\Repos\mNactec5\AplicacionEscritorio\AplicacionEscritorio\obj\Debug\AplicacionEscritorio.csprojAssemblyReference.cache
+C:\Users\cep.CEPNET0\Source\Repos\mNactec5\AplicacionEscritorio\AplicacionEscritorio\obj\Debug\AplicacionEscritorio.NuevaPregunta.resources
+C:\Users\cep.CEPNET0\Source\Repos\mNactec5\AplicacionEscritorio\AplicacionEscritorio\obj\Debug\AplicacionEscritorio.Properties.Resources.resources
+C:\Users\cep.CEPNET0\Source\Repos\mNactec5\AplicacionEscritorio\AplicacionEscritorio\obj\Debug\AplicacionEscritorio.csproj.GenerateResource.cache
+C:\Users\cep.CEPNET0\Source\Repos\mNactec5\AplicacionEscritorio\AplicacionEscritorio\obj\Debug\AplicacionEscritorio.csproj.CoreCompileInputs.cache
+C:\Users\cep.CEPNET0\Source\Repos\mNactec5\AplicacionEscritorio\AplicacionEscritorio\obj\Debug\AplicacionEscritorio.exe
+C:\Users\cep.CEPNET0\Source\Repos\mNactec5\AplicacionEscritorio\AplicacionEscritorio\obj\Debug\AplicacionEscritorio.pdb
