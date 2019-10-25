@@ -50,6 +50,7 @@
             this.buttonConfirmar = new System.Windows.Forms.Button();
             this.buttonCancelar = new System.Windows.Forms.Button();
             this.pictureBoxPregunta = new System.Windows.Forms.PictureBox();
+            this.label5 = new System.Windows.Forms.Label();
             this.groupBoxRespuestas.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxPregunta)).BeginInit();
             this.SuspendLayout();
@@ -82,6 +83,7 @@
             this.textBoxPregunta.Name = "textBoxPregunta";
             this.textBoxPregunta.Size = new System.Drawing.Size(403, 22);
             this.textBoxPregunta.TabIndex = 2;
+            this.textBoxPregunta.TextChanged += new System.EventHandler(this.textBoxPregunta_TextChanged);
             // 
             // textBoxRespuesta1
             // 
@@ -274,11 +276,21 @@
             this.pictureBoxPregunta.TabIndex = 22;
             this.pictureBoxPregunta.TabStop = false;
             // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(501, 97);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(35, 13);
+            this.label5.TabIndex = 23;
+            this.label5.Text = "label5";
+            // 
             // NuevaPregunta
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(704, 431);
+            this.Controls.Add(this.label5);
             this.Controls.Add(this.pictureBoxPregunta);
             this.Controls.Add(this.buttonCancelar);
             this.Controls.Add(this.buttonConfirmar);
@@ -323,6 +335,7 @@
         private System.Windows.Forms.Button buttonConfirmar;
         private System.Windows.Forms.Button buttonCancelar;
         private System.Windows.Forms.PictureBox pictureBoxPregunta;
+        private System.Windows.Forms.Label label5;
     }
 }
 
