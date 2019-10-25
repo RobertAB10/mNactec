@@ -31,5 +31,10 @@ namespace AplicacionEscritorio
         {
 
         }
+
+        private void textBoxPregunta_TextChanged(object sender, EventArgs e)
+        {
+            
+        }
     }
 }
