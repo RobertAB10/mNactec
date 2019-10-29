@@ -51,6 +51,7 @@
             this.buttonConfirmar = new System.Windows.Forms.Button();
             this.buttonCancelar = new System.Windows.Forms.Button();
             this.pictureBoxPregunta = new System.Windows.Forms.PictureBox();
+            this.comboBox1 = new System.Windows.Forms.ComboBox();
             this.groupBoxRespuestas.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxPregunta)).BeginInit();
             this.SuspendLayout();
@@ -277,11 +278,20 @@
             this.pictureBoxPregunta.TabIndex = 22;
             this.pictureBoxPregunta.TabStop = false;
             // 
+            // comboBox1
+            // 
+            this.comboBox1.FormattingEnabled = true;
+            this.comboBox1.Location = new System.Drawing.Point(443, 90);
+            this.comboBox1.Name = "comboBox1";
+            this.comboBox1.Size = new System.Drawing.Size(121, 21);
+            this.comboBox1.TabIndex = 23;
+            // 
             // NuevaPregunta
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(727, 448);
+            this.Controls.Add(this.comboBox1);
             this.Controls.Add(this.pictureBoxPregunta);
             this.Controls.Add(this.buttonCancelar);
             this.Controls.Add(this.buttonConfirmar);
@@ -326,6 +336,7 @@
         private System.Windows.Forms.Button buttonConfirmar;
         private System.Windows.Forms.Button buttonCancelar;
         private System.Windows.Forms.PictureBox pictureBoxPregunta;
+        private System.Windows.Forms.ComboBox comboBox1;
     }
 }
 
