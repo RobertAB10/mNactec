@@ -296,9 +296,10 @@
             this.labelNuevaModificarPregunta.ForeColor = System.Drawing.Color.White;
             this.labelNuevaModificarPregunta.Location = new System.Drawing.Point(250, 22);
             this.labelNuevaModificarPregunta.Name = "labelNuevaModificarPregunta";
-            this.labelNuevaModificarPregunta.Size = new System.Drawing.Size(255, 37);
+            this.labelNuevaModificarPregunta.Size = new System.Drawing.Size(308, 37);
             this.labelNuevaModificarPregunta.TabIndex = 25;
-            this.labelNuevaModificarPregunta.Text = "Modificar Pregunta";
+            this.labelNuevaModificarPregunta.Text = "MODIFICAR PREGUNTA";
+            this.labelNuevaModificarPregunta.Click += new System.EventHandler(this.labelNuevaModificarPregunta_Click);
             // 
             // Modificar_Pregunta
             // 
@@ -306,7 +307,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::AplicacionEscritorio.Properties.Resources.Universo;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(702, 522);
+            this.ClientSize = new System.Drawing.Size(702, 531);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.comboBoxTema);
             this.Controls.Add(this.pictureBoxPregunta);

@@ -16,5 +16,10 @@ namespace AplicacionEscritorio
         {
             InitializeComponent();
         }
+
+        private void labelNuevaModificarPregunta_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

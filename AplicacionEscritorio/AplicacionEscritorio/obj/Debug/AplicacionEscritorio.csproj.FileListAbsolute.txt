@@ -55,3 +55,6 @@ C:\Users\Usuario\Source\Repos\RobertAB10\mNactec\AplicacionEscritorio\Aplicacion
 C:\Users\Usuario\Source\Repos\RobertAB10\mNactec\AplicacionEscritorio\AplicacionEscritorio\obj\Debug\AplicacionEscritorio.csproj.CoreCompileInputs.cache
 C:\Users\Usuario\Source\Repos\RobertAB10\mNactec\AplicacionEscritorio\AplicacionEscritorio\obj\Debug\AplicacionEscritorio.exe
 C:\Users\Usuario\Source\Repos\RobertAB10\mNactec\AplicacionEscritorio\AplicacionEscritorio\obj\Debug\AplicacionEscritorio.pdb
+C:\Users\rober\Source\Repos\mNactec4\AplicacionEscritorio\AplicacionEscritorio\bin\Debug\AplicacionEscritorio.exe.config
+C:\Users\rober\Source\Repos\mNactec4\AplicacionEscritorio\AplicacionEscritorio\obj\Debug\AplicacionEscritorio.exe
+C:\Users\rober\Source\Repos\mNactec4\AplicacionEscritorio\AplicacionEscritorio\obj\Debug\AplicacionEscritorio.pdb

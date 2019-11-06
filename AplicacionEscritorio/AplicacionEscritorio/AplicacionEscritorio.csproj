@@ -90,7 +90,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="imagenes\Fondopantalla.png" />
+    <Content Include="Resources\Fondopantalla.png" />
     <None Include="Resources\luna.png" />
     <None Include="Resources\Universo.jpg" />
   </ItemGroup>
