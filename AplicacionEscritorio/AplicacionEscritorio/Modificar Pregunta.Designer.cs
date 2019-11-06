@@ -321,6 +321,7 @@
             this.Controls.Add(this.labelNuevaModificarPregunta);
             this.Name = "Modificar_Pregunta";
             this.Text = "Modificar_Pregunta";
+            this.Load += new System.EventHandler(this.Modificar_Pregunta_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxPregunta)).EndInit();
             this.groupBoxRespuestas.ResumeLayout(false);
             this.groupBoxRespuestas.PerformLayout();

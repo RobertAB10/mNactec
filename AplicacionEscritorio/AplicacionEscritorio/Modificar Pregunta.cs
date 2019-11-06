@@ -15,9 +15,16 @@ namespace AplicacionEscritorio
         public Modificar_Pregunta()
         {
             InitializeComponent();
+            this.AutoSizeMode = AutoSizeMode.GrowAndShrink;
+            MaximizeBox = false;
         }
 
         private void labelNuevaModificarPregunta_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Modificar_Pregunta_Load(object sender, EventArgs e)
         {
 
         }
