@@ -58,3 +58,15 @@ C:\Users\Usuario\Source\Repos\RobertAB10\mNactec\AplicacionEscritorio\Aplicacion
 C:\Users\rober\Source\Repos\mNactec4\AplicacionEscritorio\AplicacionEscritorio\bin\Debug\AplicacionEscritorio.exe.config
 C:\Users\rober\Source\Repos\mNactec4\AplicacionEscritorio\AplicacionEscritorio\obj\Debug\AplicacionEscritorio.exe
 C:\Users\rober\Source\Repos\mNactec4\AplicacionEscritorio\AplicacionEscritorio\obj\Debug\AplicacionEscritorio.pdb
+C:\Users\Usuario\Source\Repos\mNactec\AplicacionEscritorio\AplicacionEscritorio\bin\Debug\AplicacionEscritorio.exe.config
+C:\Users\Usuario\Source\Repos\mNactec\AplicacionEscritorio\AplicacionEscritorio\bin\Debug\AplicacionEscritorio.exe
+C:\Users\Usuario\Source\Repos\mNactec\AplicacionEscritorio\AplicacionEscritorio\bin\Debug\AplicacionEscritorio.pdb
+C:\Users\Usuario\Source\Repos\mNactec\AplicacionEscritorio\AplicacionEscritorio\obj\Debug\AplicacionEscritorio.csprojAssemblyReference.cache
+C:\Users\Usuario\Source\Repos\mNactec\AplicacionEscritorio\AplicacionEscritorio\obj\Debug\AplicacionEscritorio.Modificar_Pregunta.resources
+C:\Users\Usuario\Source\Repos\mNactec\AplicacionEscritorio\AplicacionEscritorio\obj\Debug\AplicacionEscritorio.NuevaPregunta.resources
+C:\Users\Usuario\Source\Repos\mNactec\AplicacionEscritorio\AplicacionEscritorio\obj\Debug\AplicacionEscritorio.Properties.Resources.resources
+C:\Users\Usuario\Source\Repos\mNactec\AplicacionEscritorio\AplicacionEscritorio\obj\Debug\AplicacionEscritorio.Resources.Pantalla_inicial.resources
+C:\Users\Usuario\Source\Repos\mNactec\AplicacionEscritorio\AplicacionEscritorio\obj\Debug\AplicacionEscritorio.csproj.GenerateResource.cache
+C:\Users\Usuario\Source\Repos\mNactec\AplicacionEscritorio\AplicacionEscritorio\obj\Debug\AplicacionEscritorio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Source\Repos\mNactec\AplicacionEscritorio\AplicacionEscritorio\obj\Debug\AplicacionEscritorio.exe
+C:\Users\Usuario\Source\Repos\mNactec\AplicacionEscritorio\AplicacionEscritorio\obj\Debug\AplicacionEscritorio.pdb

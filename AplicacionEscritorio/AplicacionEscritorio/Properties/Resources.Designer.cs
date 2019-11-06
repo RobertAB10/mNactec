@@ -63,6 +63,16 @@ namespace AplicacionEscritorio.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap bandera_esp {
+            get {
+                object obj = ResourceManager.GetObject("bandera esp", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap luna {
             get {
                 object obj = ResourceManager.GetObject("luna", resourceCulture);

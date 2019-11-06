@@ -1,4 +1,5 @@
-﻿using System;
+﻿using AplicacionEscritorio.Resources;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -16,7 +17,7 @@ namespace AplicacionEscritorio
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new NuevaPregunta());
+            Application.Run(new Pantalla_inicial());
         }
     }
 }
