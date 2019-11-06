@@ -15,6 +15,8 @@ namespace AplicacionEscritorio
         public NuevaPregunta()
         {
             InitializeComponent();
+            this.AutoSizeMode = AutoSizeMode.GrowAndShrink;
+            MaximizeBox = false;
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -36,5 +38,7 @@ namespace AplicacionEscritorio
         {
             
         }
+
+        
     }
 }
