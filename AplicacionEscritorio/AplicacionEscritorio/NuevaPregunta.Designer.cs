@@ -86,39 +86,43 @@
             // 
             // textBoxPregunta
             // 
-            this.textBoxPregunta.Font = new System.Drawing.Font("Arial", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBoxPregunta.Font = new System.Drawing.Font("Yu Gothic UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBoxPregunta.Location = new System.Drawing.Point(23, 251);
             this.textBoxPregunta.Name = "textBoxPregunta";
-            this.textBoxPregunta.Size = new System.Drawing.Size(504, 22);
+            this.textBoxPregunta.Size = new System.Drawing.Size(504, 25);
             this.textBoxPregunta.TabIndex = 2;
             this.textBoxPregunta.TextChanged += new System.EventHandler(this.textBoxPregunta_TextChanged);
             // 
             // textBoxRespuesta1
             // 
+            this.textBoxRespuesta1.Font = new System.Drawing.Font("Yu Gothic UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBoxRespuesta1.Location = new System.Drawing.Point(54, 48);
             this.textBoxRespuesta1.Name = "textBoxRespuesta1";
-            this.textBoxRespuesta1.Size = new System.Drawing.Size(219, 29);
+            this.textBoxRespuesta1.Size = new System.Drawing.Size(219, 25);
             this.textBoxRespuesta1.TabIndex = 4;
             // 
             // textBoxRespuesta2
             // 
+            this.textBoxRespuesta2.Font = new System.Drawing.Font("Yu Gothic UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBoxRespuesta2.Location = new System.Drawing.Point(54, 111);
             this.textBoxRespuesta2.Name = "textBoxRespuesta2";
-            this.textBoxRespuesta2.Size = new System.Drawing.Size(219, 29);
+            this.textBoxRespuesta2.Size = new System.Drawing.Size(219, 25);
             this.textBoxRespuesta2.TabIndex = 5;
             // 
             // textBoxRespuesta3
             // 
+            this.textBoxRespuesta3.Font = new System.Drawing.Font("Yu Gothic UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBoxRespuesta3.Location = new System.Drawing.Point(375, 48);
             this.textBoxRespuesta3.Name = "textBoxRespuesta3";
-            this.textBoxRespuesta3.Size = new System.Drawing.Size(219, 29);
+            this.textBoxRespuesta3.Size = new System.Drawing.Size(219, 25);
             this.textBoxRespuesta3.TabIndex = 6;
             // 
             // textBoxRespuesta4
             // 
+            this.textBoxRespuesta4.Font = new System.Drawing.Font("Yu Gothic UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBoxRespuesta4.Location = new System.Drawing.Point(375, 111);
             this.textBoxRespuesta4.Name = "textBoxRespuesta4";
-            this.textBoxRespuesta4.Size = new System.Drawing.Size(219, 29);
+            this.textBoxRespuesta4.Size = new System.Drawing.Size(219, 25);
             this.textBoxRespuesta4.TabIndex = 7;
             // 
             // label1
@@ -197,7 +201,7 @@
             // 
             this.comboBoxNivel.BackColor = System.Drawing.Color.White;
             this.comboBoxNivel.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.comboBoxNivel.Font = new System.Drawing.Font("Arial", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.comboBoxNivel.Font = new System.Drawing.Font("Yu Gothic UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.comboBoxNivel.FormattingEnabled = true;
             this.comboBoxNivel.Items.AddRange(new object[] {
             "Fácil",
@@ -205,7 +209,7 @@
             "Difícil"});
             this.comboBoxNivel.Location = new System.Drawing.Point(535, 134);
             this.comboBoxNivel.Name = "comboBoxNivel";
-            this.comboBoxNivel.Size = new System.Drawing.Size(121, 24);
+            this.comboBoxNivel.Size = new System.Drawing.Size(121, 25);
             this.comboBoxNivel.TabIndex = 17;
             // 
             // labelNivel
@@ -269,7 +273,10 @@
             // 
             // pictureBoxPregunta
             // 
-            this.pictureBoxPregunta.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxPregunta.Image")));
+            this.pictureBoxPregunta.BackColor = System.Drawing.Color.White;
+            this.pictureBoxPregunta.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBoxPregunta.BackgroundImage")));
+            this.pictureBoxPregunta.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.pictureBoxPregunta.InitialImage = null;
             this.pictureBoxPregunta.Location = new System.Drawing.Point(23, 22);
             this.pictureBoxPregunta.Name = "pictureBoxPregunta";
             this.pictureBoxPregunta.Size = new System.Drawing.Size(167, 160);
@@ -292,7 +299,7 @@
             // 
             this.comboBoxTema.BackColor = System.Drawing.Color.White;
             this.comboBoxTema.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.comboBoxTema.Font = new System.Drawing.Font("Arial", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.comboBoxTema.Font = new System.Drawing.Font("Yu Gothic UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.comboBoxTema.FormattingEnabled = true;
             this.comboBoxTema.Items.AddRange(new object[] {
             "Tema1",
@@ -300,7 +307,7 @@
             "Tema3"});
             this.comboBoxTema.Location = new System.Drawing.Point(312, 134);
             this.comboBoxTema.Name = "comboBoxTema";
-            this.comboBoxTema.Size = new System.Drawing.Size(121, 24);
+            this.comboBoxTema.Size = new System.Drawing.Size(121, 25);
             this.comboBoxTema.TabIndex = 23;
             // 
             // contextMenuStrip1
